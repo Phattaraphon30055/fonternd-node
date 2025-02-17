@@ -1,0 +1,27 @@
+{
+  "name": "fonternd-node",
+  "version": "1.0.0",
+  "description": "fonternd-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phattaraphon30055/fonternd-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phattaraphon30055/fonternd-node/issues"
+  },
+  "homepage": "https://github.com/Phattaraphon30055/fonternd-node#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security"
+  }
+}
